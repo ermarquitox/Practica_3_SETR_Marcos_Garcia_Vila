@@ -26,6 +26,9 @@ Sumados a las resistencias para los LEDs y un potenciómetro. Este último lo he
 
 Este es el esquemático que he hecho en Fritzing del circuito.
 
+<img width="2422" height="1595" alt="Esquematico" src="https://github.com/user-attachments/assets/e01b8871-bc26-4b44-9337-d74f7f2a447a" />
+
+
 ## **Fotos del Circuito:**
 
 Estas son las imágenes del circuito. A simple vista es difícil distinguir todas las conexiones, pero sumado al esquemático puede interpretarse (He hecho los colores de los cables del esquema iguales a los del circuito real).
