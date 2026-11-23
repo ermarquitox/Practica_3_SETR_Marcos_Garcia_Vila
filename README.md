@@ -33,6 +33,17 @@ Este es el esquemático que he hecho en Fritzing del circuito.
 
 Estas son las imágenes del circuito. A simple vista es difícil distinguir todas las conexiones, pero sumado al esquemático puede interpretarse (He hecho los colores de los cables del esquema iguales a los del circuito real).
 
+<img width="4096" height="3072" alt="1" src="https://github.com/user-attachments/assets/29f7ba3c-5e6f-4178-8339-e3ba3aa01389" />
+<img width="4096" height="3072" alt="2" src="https://github.com/user-attachments/assets/68a87064-5c52-42e3-a474-3900d28ea068" />
+<img width="4096" height="3072" alt="3" src="https://github.com/user-attachments/assets/5e5be306-6507-4804-bb34-60f4545a56fc" />
+<img width="1600" height="1200" alt="4" src="https://github.com/user-attachments/assets/973e0b1e-7b7c-4fdc-a38c-e84930291fbc" />
+<img width="1600" height="1200" alt="5" src="https://github.com/user-attachments/assets/655874c0-ee31-4aed-bc26-0244855e8237" />
+<img width="1600" height="1200" alt="6" src="https://github.com/user-attachments/assets/18be7876-b2ae-4fde-92a5-ec22dc5901b4" />
+<img width="1600" height="1200" alt="7" src="https://github.com/user-attachments/assets/50ebe12c-4b98-40b1-9e66-4ed9a90290fd" />
+<img width="1200" height="1600" alt="8" src="https://github.com/user-attachments/assets/44c8e3b6-336a-4c72-b2ca-c66789a40aa9" />
+<img width="1600" height="1200" alt="9" src="https://github.com/user-attachments/assets/c82a5db3-d37b-4e79-84bf-43588d941ea2" />
+
+
 ## **Descripción de la solución:**
 
 Como se sugiere/requiere en el enunciado, he utilizado ArduinoThreads, Interrupciones (Hardware), Watchdog y diferentes estados.  
